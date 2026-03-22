@@ -1,4 +1,6 @@
+# =========================
 # Unity
+# =========================
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -7,17 +9,25 @@
 [Ll]ogs/
 UserSettings/
 MemoryCaptures/
-UserSettings/
+Recordings/
 
-# Visual Studio / VS Code / JetBrains
+# Asset import cache
+Assets/AssetStoreTools*
+
+# =========================
+# IDE / Editor
+# =========================
 .vs/
 .vscode/
 .idea/
 
+# =========================
 # Auto-generated project files
+# =========================
 *.csproj
 *.unityproj
 *.sln
+*.slnx
 *.suo
 *.tmp
 *.user
@@ -25,7 +35,14 @@ UserSettings/
 *.pidb
 *.booproj
 
+# =========================
 # OS files
+# =========================
 .DS_Store
 Thumbs.db
-*.slnx
+desktop.ini
+
+# =========================
+# Test / Coverage
+# =========================
+Coverage/
