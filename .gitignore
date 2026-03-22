@@ -1,3 +1,4 @@
+# Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,6 +7,24 @@
 [Ll]ogs/
 UserSettings/
 MemoryCaptures/
+UserSettings/
 
+# Visual Studio / VS Code / JetBrains
 .vs/
+.vscode/
 .idea/
+
+# Auto-generated project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# OS files
+.DS_Store
+Thumbs.db
